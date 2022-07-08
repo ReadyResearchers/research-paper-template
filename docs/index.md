@@ -25,10 +25,18 @@ the principles that it introduces you will have embarked on an adventure to
 become a **proactive programmer** who "acts in anticipation of future problems,
 needs, or changes".[^1]
 
-*Okay, let's become proactive programmers so that we can put the PRO in
-programmer!*
+<section markdown="1" style="display: flex;">
 
-[^1]: See Merriam-Webster for the definition of
-  "[proactive](https://www.merriam-webster.com/dictionary/proactive)" and
-  examples of sentences using the word. What do you think are the
-  characteristics of a proactive programmer?
+<div class="my-block" markdown="1">
+#### Is your company, department or team..."
+
+... Waiting for solutions ?
+</div>
+
+<div class="my-block" markdown="1">
+#### Tip "How to be more effective "
+
+* You could do this and that
+</div>
+
+</section>
